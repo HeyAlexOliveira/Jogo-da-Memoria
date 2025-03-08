@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+    font-family: 'Fredoka One', cursive;
+    background-image: url('Assets/background.jpg');
+    background-size: cover;
+}
+  
+img {
+    width: 1400px;
+    height: 350px;
+}
